@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AbsoluteLayout
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/backgrand"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:id="@+id/txtInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp" >
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtId"
+            style="@style/txtHeader"
+            android:layout_width="18dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.01"
+            android:text="ID" />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtName"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.12"
+            android:text="姓名" />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtSex"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.01"
+            android:text="性别" />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtCaptain"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.04"
+            android:text="统帅" />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtForce"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.04"
+            android:text="武力" />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <TextView
+            android:id="@+id/txtIntelligence"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.06"
+            android:text="智力" />
+
+        <TextView
+            android:id="@+id/TextView01"
+            style="@style/txtHeader"
+            android:layout_width="30dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.06"
+             />
+
+        <View style="@style/headerline" >
+        </View>
+
+        <View style="@style/headerline" >
+        </View>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/generaDatListView"
+        android:layout_width="match_parent"
+        android:layout_height="395dp"
+        android:layout_x="0dp"
+        android:layout_y="30dp" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_x="0dp"
+        android:layout_y="422dp"
+        android:gravity="right" >
+
+        <Button
+            android:id="@+id/okButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/buttongreenstyle"
+            android:text="@string/okButton" />
+
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</AbsoluteLayout>

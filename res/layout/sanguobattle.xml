@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrand"
+    android:orientation="vertical">
+    <LinearLayout android:id="@+id/LinearLayout"  
+        android:orientation="vertical" android:layout_width="fill_parent"  
+        android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/battle1"
+        android:layout_width="match_parent"
+        android:background="@layout/buttongreenstyle"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle1" />
+
+    <Button
+        android:id="@+id/battle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle2" />
+
+    <Button
+        android:id="@+id/battle3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle3" />
+
+    <Button
+        android:id="@+id/battle4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle4" />
+
+    <Button
+        android:id="@+id/battle5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle5" />
+
+    <Button
+        android:id="@+id/battle6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle6" />
+
+    <Button
+        android:id="@+id/battle7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle7" />
+    
+     <Button
+        android:id="@+id/battle8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/battle8" />
+     
+
+    </LinearLayout>
+</ScrollView> 

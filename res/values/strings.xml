@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sanguoPK</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="generalPK">武将PK</string>
+    <string name="goSanguo">走进三国</string>
+    <string name="sanguoBattles">三国经典战役</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="chooseGeneral1">选择武将</string>
+    <string name="chooseGeneral2">选择武将</string>
+    <string name="chooseGeneral">选择武将</string>
+    <string name="afterGeneralPK">选择武将</string>
+    <string name="startPK">开始PK</string>
+    <string name="abouSanguoPK">三国PK是一款基于手机的娱乐游戏，不仅可以让你验证三国武将的真实本领，还可以深入了解三国文化，带领他们PK吧！\n使用说明：\n1，武将PK功能指选取两员武将，双方经过一番PK后，返回结果数据，仅供参考。\n2，走进三国包含了三国历史和三国经典战役以及三国武将总览，你可以从多个角度重温或者深入了解三国的历史。</string>
+	<string name="okButton">确定</string>
+	<string name="sanguoHistory">三国历史概况</string>
+	<string name="sanguoBattle">三国经典战役</string>
+	<string name="sanguoGenerals">三国武将名鉴</string>
+	<string name="history1">一、黄巾之乱，动荡乱世之开始</string>
+	<string name="history2">二、汉朝骚乱，群雄并起逐中原</string>
+	<string name="history3">三、董卓之乱，各路诸侯齐讨伐</string>
+	<string name="history4">四、徐州变迁，刘玄德初展锋芒</string>
+	<string name="history5">五、群雄割据，汉室天下岌可危</string>
+	<string name="history6">六、巧挟天子，曹孟德官渡大胜</string>
+	<string name="history7">七、曹操称雄，刘关张三顾茅庐</string>
+	<string name="history8">八、赤壁之战，孙刘联盟齐抗曹</string>
+	<string name="history9">九、虎踞荆州，刘玄德汉中称王</string>
+	<string name="history10">十、威震华夏，关云长水淹七军</string>
+	<string name="history11">十一、败走麦城，孙刘战事触即发</string>
+	<string name="history12">十二、夷陵之战，吴起陆逊刘托孤</string>
+	<string name="history13">十三、五路来袭，孔明妙计安天下</string>
+	<string name="history14">十四、联合孙权，七擒孟获平南心</string>
+	<string name="history15">十五、浩浩荡荡，诸葛亮兵出祁山</string>
+	<string name="history16">十六、魏蜀之战，孔明之于司马也</string>
+	<string name="history17">十七、丞相归天，姜伯约遗志兴兵</string>
+	<string name="history18">十八、司马专权，魏蜀吴渐入后期</string>
+	<string name="history19">十九、强势伐蜀，邓士载偷度阴平</string>
+	<string name="history20">二十、顺势灭吴，三分天下尽归晋</string>
+	<string name="battle1">官渡之战</string>
+	<string name="battle2">赤壁之战</string>
+	<string name="battle3">马超潼关大战</string>
+	<string name="battle4">汉中争夺战</string>
+	<string name="battle5">关羽荆州之战</string>
+	<string name="battle6">夷陵之战</string>
+	<string name="battle7">诸葛亮北伐</string>
+	<string name="battle8">三分归晋</string>
+	<string name="nameText">三国PK，尽你所想</string>
+	<string name="titleString">品味三国经典，驰骋历史风云</string>
+	
+
+	
+	
+</resources>

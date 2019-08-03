@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrand"
+    android:orientation="vertical">
+<LinearLayout android:id="@+id/LinearLayout"  
+        android:orientation="vertical" android:layout_width="fill_parent"  
+        android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/history1"
+        android:layout_width="match_parent"
+        android:background="@layout/buttongreenstyle"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/history1" />
+
+    <Button
+        android:id="@+id/history2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history2" />
+
+    <Button
+        android:id="@+id/history3"
+        android:layout_width="match_parent"
+        android:background="@layout/buttongreenstyle"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/history3" />
+
+    <Button
+        android:id="@+id/history4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history4" />
+
+    <Button
+        android:id="@+id/history5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history5" />
+
+    <Button
+        android:id="@+id/history6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history6" />
+
+    <Button
+        android:id="@+id/history7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history7" />
+    
+     <Button
+        android:id="@+id/history8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history8" />
+     
+          <Button
+        android:id="@+id/history9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history9" />
+          
+               <Button
+        android:id="@+id/history10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history10" />
+               
+     <Button
+        android:id="@+id/history11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history11" />
+     
+          <Button
+        android:id="@+id/history12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history12" />
+          
+  <Button
+        android:id="@+id/history13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history13" />
+  
+    <Button
+        android:id="@+id/history14"
+        android:layout_width="match_parent"
+        android:background="@layout/buttongreenstyle"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/history14" />
+       <Button
+        android:id="@+id/history15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history15" />
+        <Button
+        android:id="@+id/history16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history16" />
+        <Button
+        android:id="@+id/history17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history17" />
+        <Button
+        android:id="@+id/history18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history18" />
+        <Button
+        android:id="@+id/history19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history19" />
+    <Button
+        android:id="@+id/history20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/buttongreenstyle"
+        android:layout_marginTop="20dp"
+        android:text="@string/history20" />
+    </LinearLayout>
+</ScrollView> 

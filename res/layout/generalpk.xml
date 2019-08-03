@@ -1,0 +1,66 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrand" >
+
+         <Button
+             android:id="@+id/chooseGeneralButton1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:background="@layout/buttongreenstyle"
+             android:layout_marginLeft="14dp"
+             android:layout_x="24dp"
+             android:layout_y="200dp"
+             android:text="@string/chooseGeneral1" />
+
+         <Button
+             android:id="@+id/startPKButton"
+             android:layout_width="300dp"
+             android:layout_height="wrap_content"
+             android:background="@layout/buttongreenstyle"
+             android:layout_marginTop="50dp"
+             android:layout_x="5dp"
+             android:layout_y="300dp"
+             android:text="@string/startPK" />
+
+         <Button
+             android:id="@+id/chooseGeneralButton2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:background="@layout/buttongreenstyle"
+             android:layout_marginRight="26dp"
+             android:layout_x="201dp"
+             android:layout_y="201dp"
+             android:text="@string/chooseGeneral2" />
+
+         <ImageView
+             android:id="@+id/generalImage1"
+             android:layout_width="120dp"
+             android:layout_height="150dp"
+             android:layout_x="8dp"
+             android:layout_y="26dp" />
+
+         <TextView
+             android:id="@+id/victoryText"
+             android:layout_width="290dp"
+             android:layout_height="match_parent"
+             android:layout_x="13dp"
+             android:layout_y="365dp"
+             android:text="" />
+
+         <ImageView
+             android:id="@+id/pkImage"
+             android:layout_width="48dp"
+             android:layout_height="46dp"
+             android:layout_x="129dp"
+             android:layout_y="89dp" />
+
+         <ImageView
+             android:id="@+id/generalImage2"
+             android:layout_width="120dp"
+             android:layout_height="152dp"
+             android:layout_x="198dp"
+             android:layout_y="24dp" />
+
+</AbsoluteLayout>
